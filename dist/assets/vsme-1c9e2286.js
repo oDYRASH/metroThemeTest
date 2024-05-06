@@ -1,0 +1,1 @@
+import{k as e,_ as n}from"./index-98628bbe.js";const o=e({name:"profile-connections",components:{},setup(){return{}}});function t(s,r,c,p,a,_){return null}const i=n(o,[["render",t]]);export{i as default};
